@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ub-client",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ub-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "383fca65"
+}
